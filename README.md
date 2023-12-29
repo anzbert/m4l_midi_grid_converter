@@ -1,8 +1,8 @@
 <a href='https://ko-fi.com/S6S8SP865' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi4.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-# Max 4 Live Midi Note Converter for Launchpad and Ableton Push
+# Max 4 Live Midi Grid Note Converter 
 
-A Max for Live device that can be used to convert Midi Notes of a Grid Controller to any required Layout. By default set up for the [XPressPads](xpresspads.com) Finger Drumming Course
+A Max for Live device that can be used to convert Midi Notes of a Grid Controller, such as the Push or Launchpad, to any required Layout. By default set up for the [XPressPads](xpresspads.com) Finger Drumming Course
 
 ## Installation
 
