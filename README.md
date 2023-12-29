@@ -2,7 +2,7 @@
 
 # Max 4 Live Midi Note Converter for Launchpad and Ableton Push
 
-A Max for Live device that can be used to convert Midi Notes of a Grid Controller to any required Layout. By defaulkt set up for the [XPressPads](xpresspads.com) Finger Drumming Course
+A Max for Live device that can be used to convert Midi Notes of a Grid Controller to any required Layout. By default set up for the [XPressPads](xpresspads.com) Finger Drumming Course
 
 ## Installation
 
